@@ -79,6 +79,8 @@ Além disso, um botão aciona o modelo **Hermes 3** (rodando localmente no LM St
 ├── README.md              # Este arquivo
 └── .env                   # (opcional) Configuração do LM Studio
    ```
+# 📄 Licença
+MIT License – sinta‑se à vontade para usar, modificar e distribuir.
 
 # Referências:
 Dataset: MNIST – Yann LeCun, Corinna Cortes, Christopher J.C. Burges
